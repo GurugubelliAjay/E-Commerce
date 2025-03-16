@@ -1,14 +1,7 @@
 
 E-commerce React JS Application
 
-This is a full-stack e-commerce application built with React.js on the frontend and Node.js/Express on the backend. It supports user authentication, product management, cart, payment processing with Razorpay/Stripe, coupon system, and analytics.
-
-------------------------------------------------------------
-
-Project Structure
-
-/Frontend       # React.js frontend
-/Backend        # Express.js backend
+This is a full-stack e-commerce application built with React.js on the frontend and Node.js/Express on the backend. It supports user authentication, product management, cart, payment processing with Razorpay , coupon system, and analytics.
 
 ------------------------------------------------------------
 
