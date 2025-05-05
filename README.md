@@ -24,7 +24,7 @@ Features
 
 Tech Stack
 
-- Frontend: React.js, Vite, Tailwind CSS (if used)
+- Frontend: React.js, Vite, Tailwind CSS 
 - Backend: Node.js, Express.js
 - Database: MongoDB (with Mongoose)
 - Cache: Redis (via Upstash)
